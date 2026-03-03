@@ -92,6 +92,8 @@ Built-in reference tables that knitters constantly look up:
 - **Show your work** — display the formula so knitters can learn and verify
 - **Minimal steps** — each calculator should be usable in under 30 seconds
 - **Warm, crafty aesthetic** — not sterile/techy. Think soft colors, yarn-inspired palette
+- **Visible offline status** — a persistent "Works offline" badge so knitters know the tool is available without internet (yarn shops, travel, poor signal)
+- **Visible install prompt** — an "Add to Home Screen" button appears in the nav on Android/desktop when the browser supports it; iOS users see a persistent tip showing how to install via Safari's Share menu; both surfaces make it clear the app can live on their home screen like a native app
 
 ---
 

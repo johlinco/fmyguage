@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="32" fill="#C4613E"/>
+  <text x="96" y="108" font-family="Arial Black, Arial, sans-serif"
+        font-size="52" font-weight="900" text-anchor="middle"
+        fill="#FAF8F5" letter-spacing="-1">FMG</text>
+  <text x="96" y="148" font-family="Arial, sans-serif"
+        font-size="22" font-weight="400" text-anchor="middle"
+        fill="#FAF8F5" opacity="0.75">gauge</text>
+</svg>
