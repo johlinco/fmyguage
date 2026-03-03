@@ -17,7 +17,7 @@ export default function Nav() {
         href="/"
         className="text-lg font-semibold tracking-tight text-cream hover:text-sand transition-colors shrink-0"
       >
-        KnitShift
+        F My Gauge
       </Link>
       <div className="flex items-center gap-1 overflow-x-auto">
         {tools.map(({ href, label }) => {

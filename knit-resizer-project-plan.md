@@ -1,4 +1,4 @@
-# KnitShift — A Pattern Math Tool for Knitters
+# F My Gauge — A Pattern Math Tool for Knitters
 
 ## The Problem
 
@@ -16,7 +16,7 @@ Every one of these scenarios requires proportional math with constraints, and kn
 
 Build a **free, mobile-friendly web app** that acts as a "knitting math co-pilot." It doesn't replace pattern-reading apps (KnitCompanion, Row Counter) — it sits alongside them and handles the calculations those apps don't touch.
 
-## Proposed Name: **KnitShift**
+## Proposed Name: **F My Gauge**
 
 (As in: shift your pattern to fit your gauge, your yarn, your body.)
 
@@ -136,7 +136,7 @@ Built-in reference tables that knitters constantly look up:
 | Stitch Fiddle | Chart design | No calculation tools |
 | KnitEvenly | Even increase/decrease | Only does one thing, no broader context |
 
-**KnitShift's differentiator:** It's the only tool that bundles all of the pattern math a knitter needs in one place, with plain-English output and a mobile-first design. It doesn't try to be a pattern reader or social network — it just does the math really well.
+**F My Gauge's differentiator:** It's the only tool that bundles all of the pattern math a knitter needs in one place, with plain-English output and a mobile-first design. It doesn't try to be a pattern reader or social network — it just does the math really well.
 
 ---
 

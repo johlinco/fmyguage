@@ -6,7 +6,7 @@ import "./globals.css";
 const geist = Geist({ subsets: ["latin"], variable: "--font-geist-sans" });
 
 export const metadata: Metadata = {
-  title: "KnitShift — Pattern Math for Knitters",
+  title: "F My Gauge — Pattern Math for Knitters",
   description:
     "Free calculators for gauge translation, shaping schedules, stitch multiples, and more. The math co-pilot for knitters.",
 };
