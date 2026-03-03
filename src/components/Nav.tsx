@@ -6,6 +6,10 @@ import { usePathname } from 'next/navigation';
 const tools = [
   { href: '/gauge', label: 'Gauge Translator' },
   { href: '/shaping', label: 'Shaping' },
+  { href: '/size', label: 'What Size?' },
+  { href: '/stitch-multiple', label: 'Stitch Multiple' },
+  { href: '/yarn', label: 'Yarn Estimator' },
+  { href: '/reference', label: 'Quick Reference' },
 ];
 
 export default function Nav() {
